@@ -1,0 +1,36 @@
+body {
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+}
+
+h1 {
+  color: rgb(14, 66, 111);
+}
+
+.inputsix {
+  width: 50px;
+}
+.score {
+  padding-left: 40px;
+  color: rgb(255, 200, 0);
+  font-size: 200%;
+}
+.scoreq {
+  padding-left: 20px;
+  color: rgb(85, 162, 64);
+  font-size: 120%;
+}
+.scores {
+  padding-left: 20px;
+  color: rgb(14, 181, 186);
+  font-size: 220%;
+}
+.scoref {
+  padding-left: 20px;
+  color: rgb(14, 181, 186);
+  font-size: 260%;
+}
